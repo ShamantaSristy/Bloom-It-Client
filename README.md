@@ -13,5 +13,5 @@ This is an online flower shop where users can buy flowers, bouquet, plants for d
 
 See the server-side code here [https://github.com/ShamantaSristy/Bloom-It-Server]
 
-You may take a look at the application here [https://the-knot-1.web.app/]
+You may take a look at the application here [https://bloomit-72292.web.app/]
 
